@@ -1,2 +1,9 @@
-# MVP-An-lise-de-Dados-e-Boas-Pr-ticas-
-![ChatGPT Image 22 de jun  de 2025, 20_07_31](https://github.com/user-attachments/assets/c5b135d4-7ae5-4a06-a07d-86a8475a61ef)
+# 📝 MVP Análise de Dados e Boas Práticas
+<img src="https://github.com/user-attachments/assets/c5b135d4-7ae5-4a06-a07d-86a8475a61ef" alt="ChatGPT Image" width="600"/>
+
+## 🔗 Link Google Colab: [MVP Análise de Dados e Boas Práticas](https://colab.research.google.com/drive/1MYacPnuc3GccdJaUE9WBdc1nSBKUXdPN?hl=pt-BR#scrollTo=eE-377xIjU6J)
+
+- Nome: Pedro Lira de Castro
+
+- Matrícula: 4052024001354
+
