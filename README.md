@@ -3,7 +3,9 @@
 
 ## 🔗 Link Google Colab: [MVP Análise de Dados e Boas Práticas](https://colab.research.google.com/drive/1MYacPnuc3GccdJaUE9WBdc1nSBKUXdPN?hl=pt-BR#scrollTo=eE-377xIjU6J)
 
-- Nome: Pedro Lira de Castro
+#### 🎯 Este projeto foi desenvolvido com muita dedicação, seguindo criteriosamente todos os requisitos do MVP, desde a definição clara e objetiva do problema até a etapa de pré-processamento dos dados. A base de dados utilizada foi obtida na plataforma Kaggle e apresenta um conjunto diversificado de informações relacionadas a solicitantes de empréstimos. O objetivo principal do trabalho foi preparar os dados de forma adequada para futuros modelos de Machine learning.
 
-- Matrícula: 4052024001354
 
+ - Nome: Pedro Lira de Castro
+
+ - Matrícula: 4052024001354
